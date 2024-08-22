@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\k19\k19\bin\Debug\net6.0\k19.exe
+C:\Users\rodri\source\repos\k19\k19\bin\Debug\net6.0\k19.deps.json
+C:\Users\rodri\source\repos\k19\k19\bin\Debug\net6.0\k19.runtimeconfig.json
+C:\Users\rodri\source\repos\k19\k19\bin\Debug\net6.0\k19.dll
+C:\Users\rodri\source\repos\k19\k19\bin\Debug\net6.0\k19.pdb
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.AssemblyInfo.cs
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.dll
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\refint\k19.dll
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.pdb
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\k19.genruntimeconfig.cache
+C:\Users\rodri\source\repos\k19\k19\obj\Debug\net6.0\ref\k19.dll
